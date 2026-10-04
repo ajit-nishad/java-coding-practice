@@ -1,4 +1,4 @@
-public class SquarePattern {
+public class SolidSquarePattern {
 
     public static void main(String[] args) {
 
