@@ -1,4 +1,4 @@
-public class RightAlignedRightTriangle {
+public class RightAlignedRightAngleTriangle {
 
     public static void main(String[] args) {
 
